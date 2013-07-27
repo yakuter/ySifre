@@ -9,10 +9,7 @@ Hazırlmış olduğum WordPress Parola Sıfırlama Aracı (yŞifre) sayesinde es
 3. Kurulum bu kadar. Artık tek yapmanız gereken tarayıcınızın adres satırına http://www.siteniz.com/ysifre.php yazarak aracı çalıştırmak. Karşınıza çıkan formda, günlüğünüzde kullandığınız Kullanıcı Adını ve Yeni Parolanızı girerek parola sıfırlama işlemini tamamlayabilirsiniz.
 
 ## Güvenlik Uyarıları
-Bu aracı sitenize yükledikten ve parolanızı sıfırladıktan sonra derhal silmenizi tavsiye ederim. Aksi takdirde başka insanlar şans eseri sitenizde bu aracı bulup, parolanızı kendilerine göre sıfırlayabilirler.
-
-## Günlüğünüzdeki "admin" kullanıcısını silmenizi ve onun yerine başka bir kullanıcı adıyla yönetici hesabı oluşturmanızı tavsiye ederim. Bu genel bir güvenlik önlemidir.
-
-## Bu aracı www.yakuter.com'dan başka bir siteden indirmemenizi tavsiye ederim çünkü değiştirilmiş olabilir.
-
-http://www.yakuter.com/wordpress-parola-sifirlama-araci/
+1. Bu aracı sitenize yükledikten ve parolanızı sıfırladıktan sonra derhal silmenizi tavsiye ederim. Aksi takdirde başka insanlar şans eseri sitenizde bu aracı bulup, parolanızı kendilerine göre sıfırlayabilirler.
+2. Günlüğünüzdeki "admin" kullanıcısını silmenizi ve onun yerine başka bir kullanıcı adıyla yönetici hesabı oluşturmanızı tavsiye ederim. Bu genel bir güvenlik önlemidir.
+3. Bu aracı www.yakuter.com'dan başka bir siteden indirmemenizi tavsiye ederim çünkü değiştirilmiş olabilir.
+4. Dosya adresi: http://www.yakuter.com/wordpress-parola-sifirlama-araci/
